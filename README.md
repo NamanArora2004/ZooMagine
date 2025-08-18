@@ -1,21 +1,21 @@
 Zoomagine is an Augmented Reality (AR) application designed to showcase endangered species of flora and fauna in an immersive, interactive, and educational way.
 
-1) Biodiversity 
+1) Biodiversity:
     Explore animals in their natural habitats.
     Clickable animals for interactive information.
     Get a 360° view of each species.
 
-2) AR Camera
+2) AR Camera:
     Use the jungle map to scan images of animals.
     View scanned animals in Augmented Reality.
     Move animals using a joystick in the real world.
 
-3) Educational Sessions
+3) Educational Sessions:
     Access documentaries about each animal.
     Expert View: Insights from zoologists and teachers.
     Blend of visual + educational content for awareness.
 
-5) Live Sessions
+5) Live Sessions:
     Teachers and zoologists can conduct real-time sessions.
     Interactive learning for students and wildlife enthusiasts.
     Helps spread conservation awareness.
